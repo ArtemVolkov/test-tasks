@@ -5,7 +5,7 @@ import java.math.BigInteger;
 public class FactorialFactory  {
 
     /**
-     * Returns better factorial class
+     * Returns  factorial class which can find factorial
      * @param n number
      * @return if n<21 : SmallFactorial(returns Long) else : BigFatorial(returns BigInteger)
      */

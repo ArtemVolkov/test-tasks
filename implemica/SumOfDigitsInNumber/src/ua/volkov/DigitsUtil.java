@@ -5,7 +5,7 @@ public class DigitsUtil {
     /**
      * returns sum of the digits in number
      *
-     * @param number number in String format
+     * @param number number in string format
      * @return sum of the digits
      */
     public static int sumOfDigits(String number){
